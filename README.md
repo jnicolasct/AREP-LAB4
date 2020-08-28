@@ -2,19 +2,19 @@
 
 ## Ejecucion desde consola
 
-https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/comando.PNG
+![consola](https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/comando.PNG)
 
 ##  Ejemplo 1 @RequestMapping("/hello")
 
-https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/hello.PNG
+![hello](https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/hello.PNG)
 
 ##  Ejemplo 1 @RequestMapping("/pi")
 
-https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/pi.PNG
+![pi](https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/pi.PNG)
 
 ##  Ejemplo 1 @RequestMapping("/pag")
 
-https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/pag.PNG
+![pag](https://github.com/jnicolasct/AREP-LAB4/blob/master/Resources/pag.PNG)
 
 ## Autor
 
