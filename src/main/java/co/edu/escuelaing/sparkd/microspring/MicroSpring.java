@@ -28,8 +28,6 @@ public class MicroSpring {
                 } catch (Throwable ex) {
                     System.out.printf("Test %s failed: %s %n", m, ex.getCause());
 
-
-
                 }
             }
         }
